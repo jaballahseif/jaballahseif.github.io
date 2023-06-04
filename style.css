@@ -89,6 +89,9 @@ body{
     height: 100%;
     object-fit: cover;
 }
+a{
+    text-decoration: none;
+}
 .profileText h2{
     color: white;
     font-size: 1.5em;
